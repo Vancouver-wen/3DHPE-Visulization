@@ -1,3 +1,6 @@
+# https://cloud.tencent.com/developer/article/1820935
+# https://blog.csdn.net/xholes/article/details/80599802
+
 import cv2
 import json
 import matplotlib.pyplot as plt
